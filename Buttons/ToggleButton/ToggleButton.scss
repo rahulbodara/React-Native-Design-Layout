@@ -1,0 +1,12 @@
+.toggleButton {
+    background-color: #F4F4F9;
+    display: flex;
+    padding: 2px 10px;
+    border-radius: 18px;
+    min-width: 80px;
+    align-items: center;
+}
+
+.selected {
+    background-color: #6CA93F;
+}
